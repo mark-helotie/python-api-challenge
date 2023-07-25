@@ -20,3 +20,15 @@ In this deliverable, you'll use your weather data skills to plan future vacation
 The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 is provided to help you get started.
 
 Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
+
+------------------------------------------------------
+
+For VacationPy, I can't get the maps to display here in GitHub.
+
+Here are screenshots of the two maps from my Jupyter lab...
+
+![image](https://github.com/mark-helotie/python-api-challenge/assets/43053988/1beca370-316f-404e-954f-b8279038da6b)
+
+![image](https://github.com/mark-helotie/python-api-challenge/assets/43053988/281b4c9f-bc2f-43ce-965c-f38a4630f2ec)
+
+
